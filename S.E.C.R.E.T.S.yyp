@@ -34,6 +34,7 @@
   },
   "name":"S.E.C.R.E.T.S",
   "resources":[
+    {"id":{"name":"Todo","path":"notes/Todo/Todo.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
